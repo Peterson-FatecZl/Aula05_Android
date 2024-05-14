@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aula05_Mobile</string>
+    <string name="tvQtdDados">Selecione a quantidade de dados que deseja jogar:</string>
+    <string name="rb1dado">1 Dado</string>
+    <string name="rb2dado">2 Dado</string>
+    <string name="rb3dado">3 Dado</string>
+    <string name="tvTipoDeDado">Selecione o tipo de dado desejado:</string>
+    <string name="rbD4">Dado de 4 faces</string>
+    <string name="rbD6">Dado de 6 faces</string>
+    <string name="rbD8">Dado de 8 faces</string>
+    <string name="rbD10">Dado de 10 faces</string>
+    <string name="rbD12">Dado de 12 faces</string>
+    <string name="rbD20">Dado de 20 faces</string>
+    <string name="rbD100">Dado de 100 faces</string>
+    <string name="btnLancarDados">Lançar Dados</string>
+    <string name="tvResDado1">Valor do Primeiro Dado: </string>
+    <string name="tvResDado2">Valor do Segundo Dado: </string>
+    <string name="tvResDado3">Valor do Terceiro Dado: </string>
+</resources>
